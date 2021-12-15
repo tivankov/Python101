@@ -1,2 +1,2 @@
-# Pythone101
-Pythone101
+# Python101
+Python101
